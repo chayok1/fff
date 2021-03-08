@@ -1,2 +1,2 @@
-api_id = "1773601"
-api_hash = "b1a6b4feb844d0e0ed87c41b0c151f27"
+api_id = "1851845"
+api_hash = "b469959d58f886e9e764a83933677405"
